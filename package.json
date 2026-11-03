@@ -1,0 +1,13 @@
+﻿{
+  "name": "@usami/design-system",
+  "version": "1.0.0",
+  "description": "USAMI® Design System — tokens (Coffee & Cream), styles, brand assets and interactive concepts for Usami and Fuwarch Linux.",
+  "repository": "https://github.com/Rukafuu/Usami-Design-System",
+  "author": "Lucas Frischeisen (Reskyume)",
+  "license": "MIT",
+  "exports": {
+    "./tokens.css": "./tokens/tokens.css",
+    "./styles/main.css": "./styles/main.css",
+    "./styles/usamios.css": "./styles/usamios.css"
+  }
+}

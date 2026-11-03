@@ -1,0 +1,18 @@
+﻿/* USAMI® Design System v1.0 — Core CSS Custom Properties (Coffee & Cream) */
+:root {
+  --color-coffee: #39271f;
+  --color-dark-coffee: #211713;
+  --color-caramel: #b98252;
+  --color-warm-caramel: #d4a477;
+  --color-soft-pink: #f0d6d0;
+  --color-pale-rose: #e7b8bc;
+  --color-gold: #d9b778;
+  --color-ink-black: #100d0c;
+  --color-warm-white: #f8f2eb;
+  --color-muted-cream: #e6d9ca;
+
+  --font-serif: "Fraunces Variable", "Shippori Mincho", Georgia, serif;
+  --font-sans: "Geist Variable", "Zen Kaku Gothic New", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono Variable", ui-monospace, Consolas, monospace;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
